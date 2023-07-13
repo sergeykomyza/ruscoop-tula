@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+rus.coop	TRUE	/	FALSE	1999999999	PHPSESSID	DsMBOok3MKeudgKw5DY6EMY46oGRvGf1
+.rus.coop	TRUE	/	FALSE	1999999999	__ddg1_	d4lMy755dbNRKy2FqG5i
+
